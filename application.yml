@@ -17,4 +17,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 api:
   path:
-    url: https://google.com
+    url: https://www.google.com
