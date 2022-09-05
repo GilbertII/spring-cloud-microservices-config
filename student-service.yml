@@ -25,9 +25,9 @@ logging:
     name: student.log
 
 #open feign without eureka
-#address:
-#  service:
-#    url: http://localhost:8081/api/address
+address:
+  service:
+    url: http://localhost:8081/api/address
 
 resilience4j:
   circuitbreaker:
